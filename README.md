@@ -4,7 +4,7 @@
 
 A project given from the course of [Multimedia Lab](http://www.medialab.ntua.gr/main.html)
 
-### Oblective
+### Objective
 The task  is to implement the Battleship Game, where the user plays against the computer. The winner of the game is the one who will sink the opponent's ships first or collect the most points.
 
 ### Main assumptions 
