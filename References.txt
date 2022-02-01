@@ -1,0 +1,6 @@
+http://www.medialab.ntua.gr/courses/course/view.php?id=36
+https://stackoverflow.com/questions/33534594/generating-an-n-x-n-grid
+https://docs.oracle.com/javase/8/javafx/get-started-tutorial/jfx-overview.htm
+https://docs.oracle.com/javafx/2/get_started/jfxpub-get_started.htm
+https://www.youtube.com/watch?v=SudEpvy3msY&list=PL4h6ypqTi3RTIoPa_Qz3haEo3OX JQqOwc&index=20
+https://en.wikipedia.org/wiki/Battleship_(game) http://fxapps.blogspot.com/2020/06/a-battleship-game-using-javafx.html https://github.com/fineconstant/javafx-battleships
